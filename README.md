@@ -1,0 +1,2 @@
+scalatestplus-play-sample-app
+=============================
