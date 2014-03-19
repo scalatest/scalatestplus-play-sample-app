@@ -3,7 +3,7 @@ name := "scalatestplus-play-sample-app"
 version := "1.0-SNAPSHOT"
 
 libraryDependencies ++= Seq(
-  "org.scalatestplus" %% "play" % "0.8.0-SNAP1" % "test",
+  "org.scalatestplus" %% "play" % "0.8.0-SNAP2" % "test",
   jdbc,
   anorm,
   cache
